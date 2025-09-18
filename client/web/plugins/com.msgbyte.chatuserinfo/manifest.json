@@ -1,9 +1,9 @@
 {
-  "label": "Chat Userinfo",
+  "label": "聊天用户信息",
   "name": "com.msgbyte.chatuserinfo",
   "url": "/plugins/com.msgbyte.chatuserinfo/index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "gking",
-  "description": "",
+  "description": "在聊天界面头部添加按钮，点击可查看聊天对象的详细用户信息",
   "requireRestart": true
 }
