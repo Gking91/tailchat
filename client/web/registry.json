@@ -11,6 +11,17 @@
     "requireRestart": true
   },
   {
+    "label": "Chat Userinfo",
+    "label.zh-CN": "聊天用户信息",
+    "name": "com.msgbyte.chatuserinfo",
+    "url": "/plugins/com.msgbyte.chatuserinfo/index.js",
+    "version": "0.0.0",
+    "author": "gking",
+    "description": "",
+    "description.zh-CN": "",
+    "requireRestart": true
+  },
+  {
     "label": "Drawing plugin",
     "label.zh-CN": "绘图插件",
     "name": "com.msgbyte.draw",

@@ -1,0 +1,9 @@
+{
+  "label": "Chat Userinfo",
+  "name": "com.msgbyte.chatuserinfo",
+  "url": "/plugins/com.msgbyte.chatuserinfo/index.js",
+  "version": "0.0.0",
+  "author": "gking",
+  "description": "",
+  "requireRestart": true
+}
